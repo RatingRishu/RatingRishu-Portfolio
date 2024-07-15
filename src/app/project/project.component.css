@@ -193,7 +193,9 @@ figure {
     background-color: #4c49ea;
   }
   
-  
+  .ag-courses-item_date a{
+    color: white;
+  }
   
   @media only screen and (max-width: 979px) {
     .ag-courses_item {
