@@ -25,9 +25,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/@fortawesome/fontawesome-svg-core/styles.css",
+               "node_modules/aos/dist/aos.css"
             ],
-            "scripts": []
+            "scripts": [
+               "node_modules/aos/dist/aos.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "e4546856-73fe-45de-8441-5335fdc477af"
   }
 }
