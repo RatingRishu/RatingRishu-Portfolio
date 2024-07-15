@@ -37,6 +37,13 @@ export class HeroComponent {
 
     const typed = new Typed(this.typedText.nativeElement, options);
   }
-
-
+  downloadResume(): void {
+    const link = document.createElement('a');
+    link.href = 'https://drive.google.com/uc?export=download&id=1CZ4MdFcX3N9zTl6PgOQ8zbxGvm7rmGtA';
+    link.download = 'Resume.pdf';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  }
+  
 }
