@@ -1,0 +1,12 @@
+/* contact.component.css */
+.iframe-container {
+    background-color: rgba(55, 53, 67, 1); /* Full opacity */
+    padding: 10px; /* Optional: Add some padding if you want spacing around the iframe */
+  }
+  
+  .iframe-container .chatbot {
+    width: 100%;
+    height: 800px;
+    border: none; /* Optional: Remove border if any */
+  }
+  
