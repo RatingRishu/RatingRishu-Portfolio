@@ -96,6 +96,7 @@ body {
   .right {
     display: flex;
     align-items: center;
+    margin-left: 23%;
     /* justify-content: space-between; */
 }
 
