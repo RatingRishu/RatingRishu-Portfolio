@@ -1,27 +1,26 @@
-# MyPortfolio
+# RatingRishu-Portfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+Welcome to RatingRishu-Portfolio! This repository contains a comprehensive showcase of my projects and contributions as a developer. Here, you can find detailed descriptions of my work, including the technologies used, key features, and my contributions to open-source projects.
 
-## Development server
+## Introduction
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+RatingRishu-Portfolio is designed to provide an overview of my work and capabilities as a developer. It showcases my skills, the technologies I use, and the projects I have completed.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies Used
 
-## Build
+**Angular**
+**HTML**
+**CSS**
+**Java Script**
+**AOS**
+**Typed-js**
+**Annimations**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Installation
 
-## Running unit tests
+Provide instructions on how to clone the repository and set up the project locally.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+git clone https://github.com/yourusername/RatingRishu-Portfolio.git
+cd RatingRishu-Portfolio
